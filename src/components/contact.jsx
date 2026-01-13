@@ -53,17 +53,17 @@ const Contact = () => {
               <div>
                 <span className="font-medium text-white">Email:</span>{" "}
                 <a
-                  href="mailto:shashankbaxi2003@gmail.com"
+                  href="mailto:shashankbaxi1@gmail.com"
                   className="text-indigo-400 hover:underline"
                 >
-                  shashankbaxi2003@gmail.com
+                  shashankbaxi1@gmail.com
                 </a>
               </div>
 
               <div>
                 <span className="font-medium text-white">LinkedIn:</span>{" "}
                 <a
-                  href="https://www.linkedin.com/"
+                  href="https://www.linkedin.com/in/shashankbaxi16/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-indigo-400 hover:underline"
@@ -75,7 +75,7 @@ const Contact = () => {
               <div>
                 <span className="font-medium text-white">GitHub:</span>{" "}
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/shashankbaxi"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-indigo-400 hover:underline"
@@ -92,3 +92,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
