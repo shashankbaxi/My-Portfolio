@@ -45,9 +45,11 @@ const Education = () => {
             <div className="relative border-l border-slate-700 pl-6 space-y-10">
               <div className="relative">
                 <h4 className="text-lg text-white font-medium">
-                  Data Analytics Intern
+                  Web Development Training (HTML/CSS/JS) -
+                    Coincent.ai
                 </h4>
-                <p className="text-slate-400">Deloitte Australia – Forage</p>
+                <p className="text-slate-400">Learned Front-end Development skills using HTML, CSS, JS
+                    and built a responsive web project.</p>
                 <p className="text-slate-500 text-sm">Certificate:</p>
                 <a
                   href="https://drive.google.com/file/d/1v2R_UApmflLVdhwL3eOjudrPfNzmIJeb/view?usp=drive_link"
@@ -118,3 +120,4 @@ const Education = () => {
 };
 
 export default Education;
+
