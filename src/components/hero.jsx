@@ -20,7 +20,7 @@ const Hero = () => {
           </h2>
 
           <p className="text-slate-400 leading-relaxed max-w-xl">
-            Motivated Software Developer and Data Science student passionate
+            Motivated Frontend Developer and Data Science student passionate
             about building responsive, interactive, and user-friendly web
             applications using modern technologies like React and Tailwind CSS.
           </p>
