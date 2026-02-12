@@ -16,11 +16,11 @@ const Hero = () => {
           </h1>
 
           <h2 className="text-lg sm:text-xl md:text-2xl text-slate-300 font-medium">
-            Frontend Developer
+            Software Developer
           </h2>
 
           <p className="text-slate-400 leading-relaxed max-w-xl">
-            Motivated Frontend Developer and Data Science student passionate
+            Motivated Software Developer and Data Science student passionate
             about building responsive, interactive, and user-friendly web
             applications using modern technologies like React and Tailwind CSS.
           </p>
