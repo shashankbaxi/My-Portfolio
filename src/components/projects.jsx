@@ -1,9 +1,19 @@
 import React from "react";
 import travelImg from "../assets/images/travel.jpg";
 import shoppingImg from "../assets/images/shopping.jpg";
+import taskImg from "../assets/images/task.jpg";
 <img loading="lazy" decoding="async" />;
 
 const projects = [
+
+  {
+    title: "FlowBoard — Kanban Task Manager",
+    description:
+      "FlowBoard is a full stack Kanban task manager with drag & drop, JWT authentication, and real-time email contact — built with React, Node.js, MongoDB and deployed on Vercel & Railway.",
+    image: taskImg,
+    demo: "https://flowboard-orcin.vercel.app/",
+    github: "https://github.com/shashankbaxi/flowboard",
+  },
   {
     title: "Travel Pace Website",
     description:
@@ -25,12 +35,12 @@ const projects = [
 const Projects = () => {
   return (
     <section id="projects" className="reveal bg-slate-900 py-24 px-6 md:px-20">
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-12">
           Projects
         </h2>
 
-        <div className="grid md:grid-cols-2 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {projects.map((project, index) => (
             <div
               className="
