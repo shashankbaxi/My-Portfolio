@@ -36,7 +36,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="/resume-2.pdf"
+              href="/myresume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg border border-indigo-400
