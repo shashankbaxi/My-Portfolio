@@ -3,7 +3,7 @@ import React from "react";
 const skillGroups = [
   {
     title: "Languages",
-    skills: ["HTML", "CSS", "JavaScript", "Java(Basic)"],
+    skills: ["HTML", "CSS", "JavaScript",],
   },
   {
     title: "Frameworks",
