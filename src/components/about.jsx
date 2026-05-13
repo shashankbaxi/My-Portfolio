@@ -40,16 +40,11 @@ const About = () => {
           </h2>
 
           <p className="text-slate-300 leading-relaxed">
-            I am Shashank Baxi, a motivated Frontend Developer and Data Science
-            student. I enjoy building responsive and interactive web
-            applications using modern technologies like React and Tailwind CSS.
+            I am Shashank Baxi, a React Frontend Developer and Data Science student focused on building responsive, interactive, and user-friendly web applications using modern technologies like React.js and Tailwind CSS.
           </p>
 
           <p className="text-slate-400 leading-relaxed mt-4">
-            I have a basic foundation in Java, which supports my understanding
-            of programming logic and backend concepts. My goal is to grow into a
-            full-stack developer by working on real-world projects, improving
-            code quality, and continuously expanding my technical skill set.
+            I also have a foundational understanding of Java, which strengthens my programming logic and backend fundamentals. My goal is to grow into a full-stack developer by working on real-world projects, writing clean and maintainable code, and continuously improving my technical and problem-solving skills.
           </p>
         </div>
       </div>
